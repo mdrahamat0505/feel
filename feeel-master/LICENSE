@@ -1,0 +1,275 @@
+Code
+====
+Code is licensed under the **GNU AGPL v3 or any later version with an app store exception**, unless specified otherwise. See COPYING for its content.
+
+As an additional permission under section 7, you are allowed to distribute the software through an app store, even if that store has restrictive terms and conditions that are incompatible with the AGPL, provided that the source is also available under the AGPL with or without this permission through a channel without those restrictive terms and conditions.
+
+All unofficial builds of the app must be clearly labeled as such in the app's title. (E.g. "Feeel UNOFFICIAL" rather than just "Feeel", or a different name altogether.)
+
+Exercise descriptions
+=====================
+Exercise descriptions in "strings/exercises/en.json" are released under the CC BY-SA 4.0 license.
+
+* Mountain climbers – mondstern
+
+All other English exercise descriptions were written by Miroslav Mazel.
+
+Translations
+============
+Translations in "strings/ui" are released under the AGPLv3, those in "strings/exercises" under CC BY-SA 4.0.
+
+Basque - ui strings
+------
+* mondstern
+* Osoitz
+
+Chinese (Simplified) - ui strings
+-------
+* Liu Tao
+
+Czech - both ui and exercise strings
+-----
+* mondstern
+* Miroslav Mazel
+
+Dutch - both ui and exercise strings
+-----
+* Heimen Stoffels
+
+Esperanto - ui strings
+------
+* Jakub Fabijan
+* mondstern
+
+French - exercise strings
+------
+* J. Lavoie
+* Jonathan D.
+
+French - ui strings
+------
+* Max Garret
+* Jonathan D.
+* J. Lavoie
+* mondstern
+* T_Zocker
+
+German - exercise strings
+-----
+* mondstern
+
+German - ui strings
+------
+* K. Herbert
+* J. Lavoie
+* mondstern
+* mv87
+* premier.lifeboat
+* prem hassel
+* Titus Jonas
+* Roland Geider
+
+Hebrew - both ui and exercise strings
+------
+* Omer I.S.
+
+Indonesian - exercise strings
+----------
+* Reza Almanda
+* mondstern
+
+Indonesian - ui strings
+----------
+* Reza Almanda
+* SiegbjornSitumeang
+* mondstern
+* liimee
+
+Italian - ui strings
+-----
+* Gianluca Vespignani
+* J. Lavoie
+
+Italian - exercise strings
+-----
+* Gianluca Vespignani
+* J. Lavoie
+* mondstern
+
+Persian - both ui and exercise strings
+-------
+* Mohammad Hossein Tajaddini
+* alefvanoon
+
+Portuguese - both ui and exercise strings
+----------
+* Rodolfo Candido
+* Eduardo Celino
+* mondstern
+
+Russian - ui strings
+-----
+* Artem
+* Invisible Man
+* mondstern
+
+Spanish - exercise strings
+-----
+* Gabriel Tandil
+* Diego Sanguinetti
+* mondstern
+
+Spanish - ui strings
+-----
+* Gabriel Tandil
+* Diego Sanguinetti
+* Sebastián Pujá López
+* martingetzel
+
+Turkish - both ui and exercise strings
+------
+* Oğuz Ersen
+
+Images
+======
+All derivative works are released under the original image's license, listed below. The **CC BY-SA** license should cover all of them.
+
+**Leg workout**
+* Author: paolo.dev
+* License: CC0
+
+**Push-up**
+
+* Source: https://www.pexels.com/photo/adult-athlete-body-exercise-176782/
+* License: CC0
+
+**Plank**
+
+* Source: https://pxhere.com/en/photo/1165192
+* License: CC0
+
+**Squat**
+Derivative work of:
+
+* Source: https://commons.wikimedia.org/wiki/File:Parallel_Squat_Form.jpeg
+* License: CC BY-SA 3
+* Author: Vinceypo0
+* Title: Parallel Squat Form
+
+**Wall sit**
+Derivative work of:
+
+* Source: http://maxpixel.freegreatpicture.com/Vaughan-Wall-Sit-Workout-Gym-Fitness-2523075
+* License: CC0
+
+**Ab crunch**
+Derivative work of:
+
+* Source: https://www.flickr.com/photos/86598533@N04/8252254965
+* License: CC BY
+* Author: bwanderd
+* Title: 26 Abs 1
+
+**High knees**
+Derivative work of:
+
+* Source: http://www.barksdale.af.mil/News/Photos/igphoto/2000179280/
+* License: CC0
+* Author: US Air Force
+* Title: RIP It! New running program puts Airmen's best foot forward 
+
+**Jumping jacks**
+Derivative work of:
+
+* Source: http://www.af.mil/News/Photos/igphoto/2000617206/
+* License: CC0
+* Author: United States Air Force
+* Title: Top leaders unite for senior enlisted summit
+
+**Sideplank**
+Derivative work of:
+
+* Source: https://commons.wikimedia.org/wiki/File:U.S._Marine_Corps_Sgt._Jonathan_Benezette_demonstrates_the_left_plank_position_during_Marine_Corps_martial_arts_training_aboard_the_dock_landing_ship_USS_Oak_Hill_(LSD_51)_during_Amphibious-Southern_Partnership_111009-A-WF228-011.jpg
+* License: CC0
+* Author: Sgt. Sgt. Thomas Childs
+
+**Push-up rotations**
+Derivative work of:
+
+* Source: https://www.pexels.com/photo/woman-in-purple-tank-top-and-gray-sweat-pants-163437/
+* License: CC0
+
+**Lunge**
+Derivative work of:
+
+* Source: https://commons.wikimedia.org/wiki/File:U.S._Navy_Gas_Turbine_Systems_Technician_(Mechanical)_2nd_Class_Milton_Lovelace,_left,_and_Logistics_Specialist_Seaman_Brittney_Joseph,_both_assigned_to_the_Naval_Air_Station_(NAS)_Key_West_port_operations_130828-N-YB753-041.jpg
+* License: CC0
+* Author: Mass Communication Specialist 2nd Class Brian Morales
+
+**Triceps dip**
+Derivative work of:
+
+* Source: Own photo (available if needed)
+* License: CC0
+* Author: Miroslav Mazel
+
+**Jump rope: Basic jumps**
+* Triangulation author: Mohammad Hossein Tajaddini, adjustments by Miroslav Mazel
+* License: CC BY-SA 4.0
+
+Derivative work of:
+
+* Source: https://www.flickr.com/photos/90177949@N00/1394676434
+* License: CC BY 2.0
+* Author: [Drew and Merissa](https://www.flickr.com/photos/90177949@N00)
+* Title: Jump rope - skipping
+
+**Arm circles**
+* Triangulation authors: “kettenfett”, Miroslav Mazel
+* License: CC BY-SA 4.0
+
+Derivative work of:
+
+* Source: https://www.youtube.com/watch?v=PD3P7zWzzg8
+* License: CC BY 3.0
+* Author: Heartmybody Fitness
+* Title: Arm Circle to Shoulder Press Down
+
+**Success image**
+Derivative work of:
+
+* Source: https://www.pexels.com/de/foto/meer-strand-sand-frau-56615/
+* License: CC0
+
+**Google Play feature graphic**
+Derivative work of:
+
+* Source: https://pixabay.com/en/clean-jerk-sport-clean-jerk-gym-2188461/
+* License: CC0
+
+Sound sources
+=============
+All derivative works are released under the original recording's license, listed below. The **CC BY-SA** license should cover all of them.
+
+**Exercise/break chime**
+Derivative work of:
+
+* Source: https://freesound.org/people/jgreer/sounds/333629/
+* License: CC0
+* Author: jgreer
+
+**Workout finish tune**
+Derivative work of:
+
+* Source: https://freesound.org/people/actsofpaint/sounds/371086/
+* License: CC BY 3.0
+* Author: actsofpaint
+* Title: EllenGuitarTada3.wav
+
+**Clock tick**
+Derivative work of:
+
+* Source: http://soundbible.com/2044-Tick.html
+* License: CC BY 3.0
+* Author: DeepFrozenApps
+* Title: Tick
