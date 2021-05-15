@@ -1,5 +1,7 @@
 // Copyright (C) 2019–2021 Miroslav Mazel
-//
+
+//  Best Workout at Home choise add exercise
+
 // This file is part of Feeel.
 //
 // Feeel is free software: you can redistribute it and/or modify
@@ -33,9 +35,14 @@ import 'theming/feeel_themes.dart';
 
 void main() => runApp(MyApp());
 
-class MyApp extends StatelessWidget {
+class MyApp extends StatefulWidget {
   const MyApp({Key key}) : super(key: key);
 
+  @override
+  _MyAppState createState() => _MyAppState();
+}
+
+class _MyAppState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
     WidgetsFlutterBinding.ensureInitialized();
@@ -52,7 +59,8 @@ class MyApp extends StatelessWidget {
         dark: FeeelThemes.darkTheme,
         initial: AdaptiveThemeMode.light,
         builder: (theme, darkTheme) => MaterialApp(
-            title: 'Feeel',
+            debugShowCheckedModeBanner: false,
+            title: 'Feel',
             theme: theme,
             darkTheme: darkTheme,
             supportedLocales: [

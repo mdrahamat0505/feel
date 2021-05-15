@@ -141,23 +141,21 @@ class _SettingsScreenState extends State<SettingsScreen> {
                     ListTile(
                       leading: Icon(Icons.code),
                       title: Text("Source code".i18n),
-                      onTap: () =>
-                          _launchURL("https://gitlab.com/enjoyingfoss/feeel/"),
+                      onTap: () => _launchURL(""),
                     ),
                     ListTile(
                       leading: Icon(Icons.volunteer_activism),
                       title: Text("Participate".i18n),
-                      onTap: () => _launchURL(
-                          "https://gitlab.com/enjoyingfoss/feeel/-/wikis/home"),
+                      onTap: () => _launchURL(""),
                     ),
                     ListTile(
                       leading: Icon(Icons.attach_money),
                       title: Text("Donate".i18n),
-                      onTap: () => _launchURL("https://liberapay.com/Feeel/"),
+                      onTap: () => _launchURL(""),
                     ),
                     ListTile(
                       leading: Icon(Icons.info),
-                      title: Text("About Feeel".i18n),
+                      title: Text("About Feel".i18n),
                       onTap: _showAboutDialog,
                     )
                   ],
@@ -189,7 +187,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
             image: AssetImage('assets/icon_android_legacy.png'),
           ),
         ),
-        applicationLegalese: "© Miroslav Mazel et al., 2021");
+        applicationLegalese: "© Md. Rahamat Ullah et al., 2021");
     //todo add app LICENSE info to LicenseRegistry + source code and donate items
   }
 
